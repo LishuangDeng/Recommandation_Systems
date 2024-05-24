@@ -1,5 +1,5 @@
 # Recommandation Systems
-```-2024-05-22 Topic Discussion Meeting
+#-2024-05-22 Topic Discussion Meeting
     1. Data Collection and Preprocessing:
     - We will scrape the data and create a timetable.
     - The data will be split into two parts: data before a certain date will be used for training, and data after that date will be used for testing.
