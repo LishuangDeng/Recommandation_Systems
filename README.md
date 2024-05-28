@@ -1,4 +1,4 @@
-# Recommandation Systems
+# Blog
 - 2024-05-22 Topic Discussion Meeting
     - Data Collection and Preprocessing:
     - We will scrape the data and create a timetable.
