@@ -1,0 +1,5 @@
+Comment
+
+## 01 A-feed-forward-network-for-input-that-is-both-categorical-a_2002_Neural
+-- Separate numerical features and categorical features to the neural network model.
+-- Categorical features are added before the last layer.
