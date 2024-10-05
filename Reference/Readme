@@ -3,3 +3,12 @@ Comment
 ## 01 A-feed-forward-network-for-input-that-is-both-categorical-a_2002_Neural
 -- Separate numerical features and categorical features to the neural network model.
 -- Categorical features are added before the last layer.
+
+## 02 Recommender Systems
+-- The structure of this paper is similar to our papers.
+-- It demonstrated the types of recommender systems (with rating-based and without rating-based), then fit the data into the model to check which model is the best.
+-- Here they used two different movie data (Movielens and Netflix) to build each model and then to make a comparison.
+-- With Rating-based: similarity-methods(Collaborative recommendations)
+-- Without rating: network methods
+-- Additionally, this paper summarized challenges in recommender systems domains. 
+-- Summary see the word file.
