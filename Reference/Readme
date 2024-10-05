@@ -10,5 +10,5 @@ Comment
 -- Here they used two different movie data (Movielens and Netflix) to build each model and then to make a comparison.
 -- With Rating-based: similarity-methods(Collaborative recommendations)
 -- Without rating: network methods
--- Additionally, this paper summarized challenges in recommender systems domains. 
--- Summary see the word file.
+-- Additionally, this paper summarized challenges in recommender systems domains and the possibility of using reinforcement learning methods.
+-- Summary see the Word file.
